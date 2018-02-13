@@ -1,0 +1,11 @@
+C:\Users\mgregoire\source\repos\MNUCHANTIER\VVMMnuChantier\obj\ARM\Debug\App.g.i.cs
+C:\Users\mgregoire\source\repos\MNUCHANTIER\VVMMnuChantier\obj\ARM\Debug\App.g.cs
+C:\Users\mgregoire\source\repos\MNUCHANTIER\VVMMnuChantier\obj\ARM\Debug\MainPage.g.i.cs
+C:\Users\mgregoire\source\repos\MNUCHANTIER\VVMMnuChantier\obj\ARM\Debug\MainPage.g.cs
+C:\Users\mgregoire\source\repos\MNUCHANTIER\VVMMnuChantier\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Users\mgregoire\source\repos\MNUCHANTIER\VVMMnuChantier\obj\ARM\Debug\App.xaml
+C:\Users\mgregoire\source\repos\MNUCHANTIER\VVMMnuChantier\obj\ARM\Debug\MainPage.xaml
+C:\Users\mgregoire\source\repos\MNUCHANTIER\VVMMnuChantier\obj\ARM\Debug\App.xbf
+C:\Users\mgregoire\source\repos\MNUCHANTIER\VVMMnuChantier\obj\ARM\Debug\MainPage.xbf
+C:\Users\mgregoire\source\repos\MNUCHANTIER\VVMMnuChantier\obj\ARM\Debug\XamlSaveStateFile.xml
+C:\Users\mgregoire\source\repos\MNUCHANTIER\VVMMnuChantier\obj\ARM\Debug\VVMMnuChantier.csprojResolveAssemblyReference.cache

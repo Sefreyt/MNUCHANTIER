@@ -1,0 +1,5 @@
+C:\Users\mgregoire\source\repos\MNUCHANTIER\ModelMnuChantier\obj\Debug\netcoreapp2.0\ModelMnuChantier.Properties.Resources.resources
+C:\Users\mgregoire\source\repos\MNUCHANTIER\ModelMnuChantier\obj\Debug\netcoreapp2.0\ModelMnuChantier.csproj.GenerateResource.Cache
+C:\Users\mgregoire\source\repos\MNUCHANTIER\ModelMnuChantier\obj\Debug\netcoreapp2.0\ModelMnuChantier.csproj.CoreCompileInputs.cache
+C:\Users\mgregoire\source\repos\MNUCHANTIER\ModelMnuChantier\obj\Debug\netcoreapp2.0\ModelMnuChantier.AssemblyInfoInputs.cache
+C:\Users\mgregoire\source\repos\MNUCHANTIER\ModelMnuChantier\obj\Debug\netcoreapp2.0\ModelMnuChantier.AssemblyInfo.cs

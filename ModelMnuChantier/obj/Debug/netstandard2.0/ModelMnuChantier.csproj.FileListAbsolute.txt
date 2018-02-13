@@ -1,0 +1,14 @@
+C:\Users\mgregoire\source\repos\MNUCHANTIER\ModelMnuChantier\obj\Debug\netstandard2.0\ModelMnuChantier.Properties.Resources.resources
+C:\Users\mgregoire\source\repos\MNUCHANTIER\ModelMnuChantier\obj\Debug\netstandard2.0\ModelMnuChantier.csproj.GenerateResource.Cache
+C:\Users\mgregoire\source\repos\MNUCHANTIER\ModelMnuChantier\obj\Debug\netstandard2.0\ModelMnuChantier.csproj.CoreCompileInputs.cache
+C:\Users\mgregoire\source\repos\MNUCHANTIER\ModelMnuChantier\obj\Debug\netstandard2.0\ModelMnuChantier.AssemblyInfoInputs.cache
+C:\Users\mgregoire\source\repos\MNUCHANTIER\ModelMnuChantier\obj\Debug\netstandard2.0\ModelMnuChantier.AssemblyInfo.cs
+C:\Users\mgregoire\source\repos\MNUCHANTIER\ModelMnuChantier\obj\Debug\netstandard2.0\ModelMnuChantier.csprojResolveAssemblyReference.cache
+C:\Users\mgregoire\source\repos\MNUCHANTIER\ModelMnuChantier\bin\Debug\netstandard2.0\ModelMnuChantier.dll.config
+C:\Users\mgregoire\source\repos\MNUCHANTIER\ModelMnuChantier\bin\Debug\netstandard2.0\ModelMnuChantier.deps.json
+C:\Users\mgregoire\source\repos\MNUCHANTIER\ModelMnuChantier\bin\Debug\netstandard2.0\ModelMnuChantier.runtimeconfig.json
+C:\Users\mgregoire\source\repos\MNUCHANTIER\ModelMnuChantier\bin\Debug\netstandard2.0\ModelMnuChantier.runtimeconfig.dev.json
+C:\Users\mgregoire\source\repos\MNUCHANTIER\ModelMnuChantier\bin\Debug\netstandard2.0\ModelMnuChantier.dll
+C:\Users\mgregoire\source\repos\MNUCHANTIER\ModelMnuChantier\bin\Debug\netstandard2.0\ModelMnuChantier.pdb
+C:\Users\mgregoire\source\repos\MNUCHANTIER\ModelMnuChantier\obj\Debug\netstandard2.0\ModelMnuChantier.dll
+C:\Users\mgregoire\source\repos\MNUCHANTIER\ModelMnuChantier\obj\Debug\netstandard2.0\ModelMnuChantier.pdb
