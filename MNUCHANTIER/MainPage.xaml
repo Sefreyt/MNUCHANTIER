@@ -1,0 +1,90 @@
+﻿<Page
+    x:Class="MNUCHANTIER.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MNUCHANTIER"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid      
+        Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="2*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="10*"/>
+        </Grid.RowDefinitions>
+        <Button x:Name="Btn_DbConnection"
+                Content="Test Connection"
+                FontSize="66"
+                Click="Btn_DbConnection_Click"
+                Grid.ColumnSpan="2"
+                HorizontalAlignment="Stretch"
+                VerticalAlignment="Stretch"
+                Margin="0,0,0,10"/>
+        <ListView HorizontalAlignment="Stretch"  
+                  VerticalAlignment="Stretch"
+                  FontSize="22"
+                  Name="FoxProTest"
+                  SelectionMode="Single"
+                  ScrollViewer.VerticalScrollBarVisibility="Auto"
+                  ScrollViewer.IsVerticalRailEnabled="True"
+                  ScrollViewer.VerticalScrollMode="Enabled"
+                  ScrollViewer.HorizontalScrollBarVisibility="Auto"
+                  ScrollViewer.IsHorizontalRailEnabled="True"
+                  Grid.Row="1">
+            <ListView.HeaderTemplate>
+                <DataTemplate>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="1*"/>
+                            <ColumnDefinition Width="3*"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Text="Code Métier"  Foreground="DarkRed"  Grid.Column="0" Margin="5,0,5,0"/>
+                        <TextBlock Text="Description du métier"  Foreground="DarkRed" Grid.Column="1" Margin="5,0,5,0" />
+                    </Grid>
+                </DataTemplate>
+            </ListView.HeaderTemplate>
+            <ListView.ItemTemplate>
+                <DataTemplate x:DataType="local:FoxProCode">
+                    <StackPanel Orientation="Horizontal" >
+                        <TextBlock Name="ItemId"
+                                    Text="{x:Bind CodeMetier}"
+                                    Width="150" />
+                        <TextBlock Name="ItemName"
+                                    Text="{x:Bind Titre}"
+                                    Width="700" />
+                    </StackPanel>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <ListView HorizontalAlignment="Stretch"  
+                  VerticalAlignment="Stretch"
+                  FontSize="22"
+                  Name="FoxProTest2"
+                  SelectionMode="Single"
+                  ScrollViewer.VerticalScrollBarVisibility="Auto"
+                  ScrollViewer.IsVerticalRailEnabled="True"
+                  ScrollViewer.VerticalScrollMode="Enabled"
+                  ScrollViewer.HorizontalScrollBarVisibility="Auto"
+                  ScrollViewer.IsHorizontalRailEnabled="True"
+                  Grid.Row="1"
+                  Grid.Column="1">
+            <ListView.HeaderTemplate>
+                <DataTemplate>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="1*"/>
+                            <ColumnDefinition Width="3*"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Text="Code Métier"  Foreground="DarkRed"  Grid.Column="0" Margin="5,0,5,0"/>
+                        <TextBlock Text="Description du métier"  Foreground="DarkRed" Grid.Column="1" Margin="5,0,5,0"/>
+                    </Grid>
+                </DataTemplate>
+            </ListView.HeaderTemplate>
+        </ListView>
+    </Grid>
+</Page>
